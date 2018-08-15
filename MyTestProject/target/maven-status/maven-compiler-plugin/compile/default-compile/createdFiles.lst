@@ -1,0 +1,17 @@
+META-INF/mvp4g2/gotoScreen05.properties
+META-INF/mvp4g2/updateStatus_pPp_java_lang_String.properties
+META-INF/mvp4g2/application.properties
+META-INF/mvp4g2/start.properties
+META-INF/mvp4g2/presenter.properties
+META-INF/mvp4g2/gotoScreen02.properties
+META-INF/mvp4g2/setNavigation_pPp_com_google_gwt_user_client_ui_Widget.properties
+META-INF/mvp4g2/initHistory.properties
+META-INF/mvp4g2/setContent_pPp_com_google_gwt_user_client_ui_Widget.properties
+META-INF/mvp4g2/setHeader_pPp_com_google_gwt_user_client_ui_Widget.properties
+META-INF/mvp4g2/history.properties
+META-INF/mvp4g2/gotoScreen01.properties
+META-INF/mvp4g2/eventBus.properties
+META-INF/mvp4g2/gotoScreen03.properties
+META-INF/mvp4g2/setStatusbar_pPp_com_google_gwt_user_client_ui_Widget.properties
+META-INF/mvp4g2/gotoScreen04.properties
+META-INF/mvp4g2/handler.properties
