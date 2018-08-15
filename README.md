@@ -1,0 +1,2 @@
+- open `MyTestProject` folder
+- execute `mvn clean install`
